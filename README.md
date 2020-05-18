@@ -1,0 +1,2 @@
+# BIOMEDICAL-SIGNAL-AND-IMAGE-PROCESSING
+Masters course BIOMEDICAL SIGNAL AND IMAGE PROCESSING at Faculty of Computer Science Ljubljana
